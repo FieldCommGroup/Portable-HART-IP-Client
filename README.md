@@ -44,4 +44,3 @@ In addition, the phip supports a wide range of [HART Commands](doc/Portable%20HA
 - [Annex C Building the Portable HART-IP Client](doc/C-Building%20the%20Portable%20HART-IP%20Client.md)
 
 
-
