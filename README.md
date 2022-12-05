@@ -12,7 +12,7 @@ This Client enables the user to send HART commands to the connected HART-IP devi
 
 This Readme describes how to build, deploy and use this example HART-IP 2.0 Client.  The Usage subsection includes example HART communications.  The data you actually will receive depends on the connected field device and process conditions captured by that device.
 
-For more information, see the [data sheet here](https://support.fieldcommgroup.org/helpdesk/attachments/8057534489).
+For more information, see the [data sheet here](https://support.fieldcommgroup.org/helpdesk/attachments/8098934129).
 
 ## Features Included
 
