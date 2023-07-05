@@ -41,6 +41,6 @@ In addition, the phip supports a wide range of [HART Commands](doc/Portable%20HA
 - [6 Reading the Syslog](doc/6-Reading%20the%20syslog.r1.md)
 - [Annex A About HART-IP Versions](doc/A-About%20HART-IP%20Versions.r1.md)
 - [Annex B HART-IP Security and Factory Reset](doc/B-Security%20and%20Factory%20Reset.r1.md)
-- [Annex C Building the Portable HART-IP Client](doc/C-Building%20the%20Portable%20HART-IP%20Client.md)
+
 
 

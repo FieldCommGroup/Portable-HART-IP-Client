@@ -41,4 +41,3 @@ Just after Factory Reset, the server locks to the HART Version (v1 or v2) suppor
 
 Basically the end user can engineer/design the installation to use security or not based on the currently deployed applications and HART-IP devices (e.g., Remote I/O).  Secure and in-secure communications to the server cannot be mixed simultaneously on the same device.  It is one or the other (v1 unsecure or v2 secure).  The end user controls and makes that choice.
 
-[NEXT: Annex C Building the Portable HART-IP Client](./C-Building%20the%20Portable%20HART-IP%20Client.md)

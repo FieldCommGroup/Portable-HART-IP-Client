@@ -46,8 +46,6 @@ Clients are applications that interact with one or more field devices to perform
 
 - Cloud-based data repositories.
 
-The Portable HART-IP Client source code is available to demonstrate HART-IP client operation and secure communications. 
-
 ## The Portable HART-IP Client
 
 The Figure *Portable HART-IP Client Architecture* shows many internal details of the Portable HART-IP Client. This architecture aligns with many web-based applications world-wide.
